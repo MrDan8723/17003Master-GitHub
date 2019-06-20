@@ -1,0 +1,17 @@
+..\obj\mntc_ioctrl.o: ..\HARDWARE\MNTC_IOCtrl\MNTC_IOCtrl.c
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\mntc_ioctrl.o: ..\USER\stm32f10x.h
+..\obj\mntc_ioctrl.o: ..\CORE\core_cm3.h
+..\obj\mntc_ioctrl.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mntc_ioctrl.o: ..\USER\system_stm32f10x.h
+..\obj\mntc_ioctrl.o: ..\USER\stm32f10x_conf.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\mntc_ioctrl.o: ..\USER\stm32f10x.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\misc.h
+..\obj\mntc_ioctrl.o: ..\HARDWARE\MNTC_IOCtrl\MNTC_IOCtrl.h
+..\obj\mntc_ioctrl.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_exti.h
