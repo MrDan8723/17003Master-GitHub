@@ -46,6 +46,7 @@ typedef enum
 typedef struct 
 {
   u8 id;                              //轴板ID
+  ActionStateEnum state;              //轴状态
   
   float speed;                        //轴速度，mm/s
   float position;                     //轴当前绝对坐标

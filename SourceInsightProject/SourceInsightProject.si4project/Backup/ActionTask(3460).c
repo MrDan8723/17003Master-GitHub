@@ -85,20 +85,4 @@ void ActionTaskInit(void)
 {
 
 }
-
-/**************************************************************************************
-  * name        : void AxisHome(void)
-  * Function    : 三轴回零动作
-  * Parameters  : Null
-  * Returns     : Null
-  * Note        : 
-  * Author      : XYD
-  * Check       : 
-**************************************************************************************/
-void AxisHome(void)
-{
-
-}
-
-
 /**************** (C) COPYRIGHT 2016 MNTC *****END OF FILE*******************/ 
